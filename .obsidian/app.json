@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en"
+  ],
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}
