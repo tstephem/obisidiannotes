@@ -1,6 +1,7 @@
 trash_ICRA19v3 é a versão do dataset trash_ICRA19 com as novas bounding boxes colocadas
 
 - val  480 px
+
 | MAP 50  | Yolov5 s6 | Yolov5 m6 | Yolov5 l6 | Yolov5 x6 |
 | ------- | --------- | --------- | --------- | --------- |
 | Plastic | 0,702     | 0,701    | 0,0     | 0,746     |
@@ -9,15 +10,8 @@ trash_ICRA19v3 é a versão do dataset trash_ICRA19 com as novas bounding boxes 
 | All     | 0,552     | 0,61     | 0,0     | 0,601    |
 
 
-| MAP 50  | 480 px | 640 px | 960 px |
-| ------- | --------- | --------- | --------- |
-| Plastic | 0,746    | 0,745     | 0,738     |
-| Bio     | 0,49    | 0,504     | 0,477     |
-| ROV     | 0,565     | 0,642     | 0,644     |
-| All     | 0,601    | 0,63     | 0,62     |
-
-
 - val 640 px
+
 | MAP 50  | Yolov5 s6 | Yolov5 m6 | Yolov5 l6 | Yolov5 x6 |
 | ------- | --------- | --------- | --------- | --------- |
 | Plastic | 0,683     | 0,735     | 0,0     | 0,745     |
@@ -26,6 +20,7 @@ trash_ICRA19v3 é a versão do dataset trash_ICRA19 com as novas bounding boxes 
 | All     | 0,544     | 0,625     | 0,0     | 0,63     |
 
 - val 960 px
+
 | MAP 50  | Yolov5 s6 | Yolov5 m6 | Yolov5 l6 | Yolov5 x6 |
 | ------- | --------- | --------- | --------- | --------- |
 | Plastic | 0,687     | 0,728     | 0,0     | 0,738     |
@@ -34,5 +29,11 @@ trash_ICRA19v3 é a versão do dataset trash_ICRA19 com as novas bounding boxes 
 | All     | 0,508     | 0,548     | 0,0     | 0,62     |
 
 
+- Olhar geral
 
-
+| MAP 50  | 480 px | 640 px | 960 px |
+| ------- | --------- | --------- | --------- |
+| Plastic | 0,746    | 0,745     | 0,738     |
+| Bio     | 0,49    | 0,504     | 0,477     |
+| ROV     | 0,565     | 0,642     | 0,644     |
+| All     | 0,601    | 0,63     | 0,62     |
