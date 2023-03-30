@@ -1,6 +1,7 @@
 Nesse modelo usei os pesos do treino realizado no tv3F como ponto de partida para treinar a base de dados tv4
 
 - yolov5l6 --> (Icra novas anotações + peixes) --> (icra novas anotações + multiplos lixos)
+
 | MAP 50  | 480 px | 640 px | 960 px |
 | ------- | --------- | --------- | --------- |
 | Plastic | 0,747     | 0,739     | 0,724     |
@@ -9,6 +10,7 @@ Nesse modelo usei os pesos do treino realizado no tv3F como ponto de partida par
 | All     | 0,635     | 0,648     | 0,628     |
 
 - yolov5x6 --> ((icra novas anotações + multiplos lixos) + peixes) --> (icra novas anotações + multiplos lixos) 
+
 | MAP 50  | 480 px | 640 px | 960 px |
 | ------- | --------- | --------- | --------- |
 | Plastic | 0,746    | 0,745     | 0,738     |
@@ -18,6 +20,7 @@ Nesse modelo usei os pesos do treino realizado no tv3F como ponto de partida par
 
 
 - DESCONSIDERAR
+
 | MAP 50  | 480 px | 640 px | 960 px |
 | ------- | --------- | --------- | --------- |
 | Plastic | 0,816     | 0,807     | 0,785     |
