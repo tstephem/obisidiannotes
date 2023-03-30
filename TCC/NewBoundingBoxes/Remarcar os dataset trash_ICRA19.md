@@ -1,10 +1,10 @@
 O Dataset inicial tinha poucas marcações e deixava de fora algumas marcações que podiam ser mais acuradas. Com isso, decidi usar a ferramenta do site [Roboflow](https://roboflow.com). Segue alguns exemplos das alterações realizadas:
-![[obj0309.png]]
-![[obj0309a.png]]
-![[obj0707.png]]
-![[obj0707a.png]]
-![[obj1314.png]]
-![[obj1314a.png]]
+![](/images/obj0309.png)
+![](/images/obj0309a.png)
+![](/images/obj0707.png)
+![](/images/obj0707a.png)
+![](/images/obj1314.png)
+![](/images/obj1314a.png)
 
 Após isso refiz o treinamento e validei tanto nas imagens de validação sem as novas marcações e com as novas marcações.
 
